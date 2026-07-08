@@ -1,15 +1,18 @@
+[![中文](https://img.shields.io/badge/中文-README-blue?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README.md)
+[![English](https://img.shields.io/badge/English-README-green?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README-EN.md)
+
 # 👋 你好，我是 ie155
 
 ## 📖 正在学习
 ### Minecraft 模组/插件开发
 - 编程语言：Java
-- 开发工具：IntelliJ IDEA + Gradle /Intellij IDEA + Maven
-- 主要 API: Fabric / Paper
+- 开发工具：IntelliJ IDEA + Gradle / IntelliJ IDEA + Maven
+- 主要 API：Fabric / Paper
 - 当前目标：制作功能性模组
 
-### 使用ai制作网页
-- 编程语言： HTML CSS JS
-- 开发工具： vscode
+### 使用 AI 制作网页
+- 编程语言：HTML、CSS、JS
+- 开发工具：VS Code
 
 ## 🎮 资深爱好
 ### Minecraft
