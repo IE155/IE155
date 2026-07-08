@@ -7,6 +7,10 @@
 - 主要 API: Fabric / Paper
 - 当前目标：制作功能性模组
 
+### 使用ai制作网页
+- 编程语言： HTML CSS JS
+- 开发工具： vscode
+
 ## 🎮 资深爱好
 ### Minecraft
 - 主玩版本：1.21.11
