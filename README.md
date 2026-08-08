@@ -1,7 +1,7 @@
 [![中文](https://img.shields.io/badge/中文-README-blue?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README.md)
 [![English](https://img.shields.io/badge/English-README-green?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README-EN.md)
 
-# 👋 你好，我是 ie155
+# 👋 你好，我是 qzzt
 
 ## 📖 正在学习
 ### Minecraft 模组/插件开发
@@ -23,5 +23,5 @@
 
 ## 📫 联系方式
 - **QQ**：`1707754480`（主用）
-- **Discord**：`ie155_`（长期在线）
+- **Discord**：`qzzt9227`（长期在线）
 - 欢迎交流模组开发或联机游戏！
