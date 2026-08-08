@@ -1,7 +1,7 @@
 [![中文](https://img.shields.io/badge/中文-README-blue?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README.md)
 [![English](https://img.shields.io/badge/English-README-green?style=flat-square&logo=github)](https://github.com/IE155/IE155/blob/main/README-EN.md)
 
-# 👋 Hello, I'm ie155
+# 👋 Hello, I'm qzzt
 
 ## 📖 Currently Learning
 ### Minecraft Mod/Plugin Development
@@ -23,5 +23,5 @@
 
 ## 📫 Contact
 - **QQ**: `1707754480` (primary)
-- **Discord**: `ie155_` (online most of the time)
+- **Discord**: `qzzt9227` (online most of the time)
 - Feel free to reach out for mod development discussions or gaming together!
